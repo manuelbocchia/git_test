@@ -1,0 +1,1 @@
+This is Manuel Bocchia's first git project!
